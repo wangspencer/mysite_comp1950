@@ -9,4 +9,6 @@ This will include:
 * CSS
 * JS
 
+We will also do JQuery
+
 
